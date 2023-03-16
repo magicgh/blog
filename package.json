@@ -9,10 +9,6 @@
   "bugs": {
     "url": "https://github.com/magicgh/blog/issues"
   },
-  "engines": {
-    "node": ">=16",
-    "npm": ">=8"
-  },
   "scripts": {
     "test": "vitest",
     "coverage": "vitest run --coverage",
