@@ -1,3 +1,4 @@
+katex = true
 favicon = './favicon.ico'
 faviconSVG = './favicon.svg'
 appleTouchIcon = './apple-touch-icon.png'

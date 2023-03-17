@@ -1,0 +1,7 @@
+HEIGE-PCloud/Notion-Hugo:
+  - source: archetypes/
+    dest: archetypes/
+  - source: layouts/
+    dest: layouts/
+  - source: src/
+    dest: src/

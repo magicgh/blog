@@ -1,2 +1,6 @@
 [highlight]
     style = 'monokailight'
+    
+[goldmark]
+    [goldmark.renderer]
+        unsafe = true
