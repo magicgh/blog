@@ -1,0 +1,9 @@
+favicon = './favicon.ico'
+faviconSVG = './favicon.svg'
+appleTouchIcon = './apple-touch-icon.png'
+description = "Nulla ratio non sequi cor tuum."
+
+
+[theme_config]
+    show_description = true
+    back_home_text = "..."

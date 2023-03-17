@@ -2,6 +2,7 @@ baseURL = "https://blog.magicgh.com"
 languageCode = "en-us"
 title = "Magicgh's Blog"
 theme = "nostyleplease"
+
 disqusShortname = "geology-chemistry"
 googleAnalytics = "G-9W8NZEZR0S"
 
