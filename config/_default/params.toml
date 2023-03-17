@@ -7,4 +7,4 @@ description = "Nulla ratio non sequi cor tuum."
 
 [theme_config]
     show_description = true
-    back_home_text = "..."
+    back_home_text = "<-"
