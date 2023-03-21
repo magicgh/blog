@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp -rf ./blog.config.js ./nobelium/
-cp -rf ./public/apple-touch-icon.png ./public/avatar.png ./public/favicon.ico ./public/favicon.svg ./nobelium/public/
+cp -rf ../path0/blog.config.js ./
+cp -rf ../path0/public/apple-touch-icon.png ../path0/public/avatar.png ../path0/public/favicon.ico ../path0/public/favicon.svg ./public/
