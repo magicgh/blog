@@ -15,6 +15,7 @@ jobs:
       - uses: mskelton/setup-yarn@v1
         with:
           node-version: '18.x'
+          working-directory: ./nobelium
       
       - name: Install and build
         run: |
